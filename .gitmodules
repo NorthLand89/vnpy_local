@@ -1,0 +1,6 @@
+[submodule "vnpy"]
+	path = vnpy
+	url = https://github.com/vnpy/vnpy.git
+[submodule "mongo"]
+	path = mongo
+	url = https://github.com/dockerfile/mongodb.git
